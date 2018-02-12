@@ -1,0 +1,13 @@
+C:\Users\ASinghal2\Downloads\Teboscreen_source_code\Teboscreen_source_code\TeboScreen\bin\Debug\Teboscreen.exe
+C:\Users\ASinghal2\Downloads\Teboscreen_source_code\Teboscreen_source_code\TeboScreen\bin\Debug\Teboscreen.pdb
+C:\Users\ASinghal2\Downloads\Teboscreen_source_code\Teboscreen_source_code\TeboScreen\obj\Debug\Teboscreen.Properties.Resources.resources
+C:\Users\ASinghal2\Downloads\Teboscreen_source_code\Teboscreen_source_code\TeboScreen\obj\Debug\TestApplication.csproj.GenerateResource.Cache
+C:\Users\ASinghal2\Downloads\Teboscreen_source_code\Teboscreen_source_code\TeboScreen\obj\Debug\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\ASinghal2\Downloads\Teboscreen_source_code\Teboscreen_source_code\TeboScreen\obj\Debug\Teboscreen.exe
+C:\Users\ASinghal2\Downloads\Teboscreen_source_code\Teboscreen_source_code\TeboScreen\obj\Debug\Teboscreen.pdb
+C:\Users\ASinghal2\Downloads\Teboscreen_source_code\Teboscreen_source_code\TeboScreen\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\ASinghal2\Downloads\Teboscreen_source_code\Teboscreen_source_code\TeboScreen\obj\Debug\TestApplication.Form2.resources
+C:\Users\ASinghal2\Downloads\Teboscreen_source_code\Teboscreen_source_code\TeboScreen\obj\Debug\TestApplication.Form1.resources
+C:\Users\ASinghal2\Downloads\Teboscreen_source_code\Teboscreen_source_code\Teboscreen\bin\Debug\Teboscreen.exe.config
+C:\Users\ASinghal2\Downloads\Teboscreen_source_code\Teboscreen_source_code\Teboscreen\bin\Debug\IronOcr.dll
+C:\Users\ASinghal2\Downloads\Teboscreen_source_code\Teboscreen_source_code\Teboscreen\bin\Debug\IronOcr.xml
